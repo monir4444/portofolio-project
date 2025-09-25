@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #1b1e22;
+}
+.hero{
+    margin-top: 200px;
+}
+.momo{
+    color: aqua;
+    font-size: 55px;
+}
+.koko img{
+    width: 80px;
+    height: 80px;
+}
+.imgsssss img{
+    width: 80px;
+    height: 80px;
+}
+.koko{
+    margin-top: 50px;
+     background-color: #f5b6e0;
+}
+.ioi img{
+    width: 200px;
+    height: 200px;
+    
+
+}
+.ioio{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.both{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.imgsssss{margin-top: 50px;
+            background-color: #f5b6e0;}
+.front{
+    color: #eeeeee;
+
+
+}
+.front1{
+    color: #eeeeee;
+    font-size: 22px;
+    margin-top: 17px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    color: #eeeeee;
+    font-size: 120px;
+    margin-top: 200px;
+    
+}
+
+.about1{
+    color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2px;
+    max-width: 1200px;
+}
+.navigation ul{
+    display: flex;
+    list-style-type: none;
+    gap:50px;
+}
+.navigation a{
+    text-decoration: none;
+    color: #eeeeee;
+}
+.navigation a:hover{
+    color: aqua;
+}
+.monir{color: #eeeeee;}
+hr{opacity: 40%;}
